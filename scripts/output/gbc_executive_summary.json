@@ -1,0 +1,24 @@
+{
+  "project": "GBC Ghana CSR Communications Audit",
+  "author": "Caleb Agyemang",
+  "stakeholder_groups": 8,
+  "csr_dimensions": 6,
+  "overall_csr_score": 58.5,
+  "transparency_score": 38,
+  "top_performer": {
+    "dimension": "Public Education",
+    "score": 82
+  },
+  "biggest_gap": {
+    "dimension": "Funding Advocacy",
+    "gap": 25
+  },
+  "key_finding": "GBC excels in public education (82/100) but faces a 25-point gap in funding advocacy CSR. The 2024 Stakeholders Conference highlighted chronic underfunding as the central barrier to CSR expansion.",
+  "methodology": "Stakeholder mapping by influence/communication need, CSR scoring against best-practice benchmarks, gap analysis across 6 dimensions using public conference data and institutional reports.",
+  "data_sources": [
+    "GBC 2024 Stakeholders Conference",
+    "Public Media Alliance",
+    "GBC Draft Consultation Document (Nov 2025)",
+    "Rabotec Group Partnership Announcements"
+  ]
+}
