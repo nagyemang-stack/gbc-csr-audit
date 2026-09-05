@@ -1,4 +1,5 @@
 # GBC Ghana — CSR Communications Audit
+> Portfolio analysis repository. Findings are based on publicly available materials and clearly identified assumptions; this is not commissioned client work or an official company report.
 
 **Author:** Caleb Agyemang  
 **Portfolio:** [calebagyemang.vercel.app](https://calebagyemang.vercel.app)
